@@ -1,3 +1,4 @@
+![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Archana Singh</h1>
 <h3 align="center">Exploring the Intersection of Creativity and Code: Embracing the Journey as a Devoted Developer</h3>
 
